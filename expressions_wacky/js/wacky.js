@@ -3,5 +3,5 @@
 var scientist = 1;
 var bulb = 1;
 // Ready For The Joke?
-var answer = "1, but it would have to change bwabwabwabwa!"
+var answer = "1, but it would have to change!"
 console.log(answer)

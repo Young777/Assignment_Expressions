@@ -29,8 +29,10 @@
       <file leaf-file-name="wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/expressions_wacky/js/wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="44" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="5" column="44" selection-start="204" selection-end="204" vertical-scroll-proportion="0.113464445">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -291,8 +293,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/expressions_wacky/js/wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="44" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="5" column="44" selection-start="204" selection-end="204" vertical-scroll-proportion="0.113464445">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
