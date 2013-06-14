@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be9e0cbf-9aa6-463b-addd-1833a2758d93" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/expressions_industry/js/industry.js" afterPath="$PROJECT_DIR$/expressions_industry/js/industry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/expressions_wacky/js/wacky.js" afterPath="$PROJECT_DIR$/expressions_wacky/js/wacky.js" />
     </list>
     <ignored path="Assignment_Expressions.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,10 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="industry.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="industry.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/expressions_industry/js/industry.js">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wacky.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/expressions_wacky/js/wacky.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -54,11 +63,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/expressions_personal/Expressions_Personal.htm" />
-        <option value="$PROJECT_DIR$/expressions_wacky/js/wacky.js" />
         <option value="$PROJECT_DIR$/expressions_wacky/Expressions_Wacky.htm" />
         <option value="$PROJECT_DIR$/expressions_industry/Expressions_Industry.htm" />
         <option value="$PROJECT_DIR$/expressions_personal/js/personal.js" />
         <option value="$PROJECT_DIR$/expressions_industry/js/industry.js" />
+        <option value="$PROJECT_DIR$/expressions_wacky/js/wacky.js" />
       </list>
     </option>
   </component>
@@ -122,7 +131,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="expressions_personal" />
+              <option name="myItemId" value="expressions_wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -136,25 +145,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="expressions_industry" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assignment_Expressions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assignment_Expressions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="expressions_industry" />
+              <option name="myItemId" value="expressions_wacky" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment_Expressions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Assignment_Expressions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="expressions_industry" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -290,15 +299,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/expressions_wacky/js/wacky.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="44" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/expressions_industry/Expressions_Industry.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="62" vertical-scroll-proportion="0.0">
@@ -318,6 +318,13 @@
     <entry file="file://$PROJECT_DIR$/expressions_industry/js/industry.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressions_wacky/js/wacky.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
