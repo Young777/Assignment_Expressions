@@ -1,4 +1,4 @@
-// Shaylen Young - 06 - 13 - Expression Industry
+// Shaylen Young - 06/13 - Expression Industry
 //Calculating my check along with stat bonus
 
 var hoursworked = 40;
