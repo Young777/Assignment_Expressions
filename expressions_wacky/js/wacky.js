@@ -1,4 +1,4 @@
-//Shaylen Young - 06 - 13 - Wacky
+//Shaylen Young - 06 - 13 - Wacky Assignment
 //How Many Scientist Does It Take To Screw In a Light Bulb
 var scientist = 1;
 var bulb = 1;
