@@ -12,4 +12,4 @@ var billstotal = bills[0] + bills [1] + bills[2] + bills [3] + bills [4]
 
 var answer = checktotal - billstotal;
 
-console.log(answer);
+console.log(answer)
