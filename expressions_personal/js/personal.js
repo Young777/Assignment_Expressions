@@ -1,4 +1,4 @@
-//Shaylen Young - 06 - 13 - Personal
+//Shaylen Young - 06 - 13 - Personal Assignment
 //How Much Money Will I Have Left After Bills
 var percheck = 820;
 var checkspermnth = 4;
