@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be9e0cbf-9aa6-463b-addd-1833a2758d93" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/expressions_industry/js/industry.js" afterPath="$PROJECT_DIR$/expressions_industry/js/industry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/expressions_personal/Expressions_Personal.htm" afterPath="$PROJECT_DIR$/expressions_personal/Expressions_Personal.htm" />
     </list>
     <ignored path="Assignment_Expressions.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,19 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Expressions_Industry.htm" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/expressions_industry/Expressions_Industry.htm">
+      <file leaf-file-name="Expressions_Personal.htm" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/expressions_personal/Expressions_Personal.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="51" selection-start="230" selection-end="230" vertical-scroll-proportion="-3.75">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="industry.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/expressions_industry/js/industry.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="48" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
+            <state line="6" column="11" selection-start="190" selection-end="190" vertical-scroll-proportion="0.14128728">
               <folding />
             </state>
           </provider>
@@ -64,6 +55,7 @@
       <list>
         <option value="$PROJECT_DIR$/expressions_industry/Expressions_Industry.htm" />
         <option value="$PROJECT_DIR$/expressions_industry/js/industry.js" />
+        <option value="$PROJECT_DIR$/expressions_personal/Expressions_Personal.htm" />
       </list>
     </option>
   </component>
@@ -127,25 +119,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="expressions_industry" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assignment_Expressions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Assignment_Expressions" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="expressions_industry" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="expressions_personal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -277,6 +251,13 @@
     <entry file="file://$PROJECT_DIR$/expressions_industry/js/industry.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="48" selection-start="48" selection-end="48" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expressions_personal/Expressions_Personal.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="11" selection-start="190" selection-end="190" vertical-scroll-proportion="0.14128728">
           <folding />
         </state>
       </provider>
